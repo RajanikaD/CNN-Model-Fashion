@@ -1,2 +1,2 @@
-# CNN-Model-1
+# CNN-Model-Fashion
 CNN-model for fashion classification
